@@ -1,0 +1,9 @@
+{
+	"name": "databricks-perna",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5a7706f3-e81e-4696-9632-d69f2de8e699",
+		"tenantId": "6cb89b91-d0c0-4d63-bc8a-3da0c4bb588f"
+	}
+}
